@@ -1,0 +1,18 @@
+Assignment 2:
+
+In this assignment, you'll be working with a dataset from Kaggle titled "Fashion
+Clothing Products Catalog." You can access the dataset by visiting
+https://www.kaggle.com/datasets/shivamb/fashion-clothing-products-catalog and
+downloading it. Your task is to develop a content based recommendation system
+using vector databases such as qdrant and weaviate. To encode text data effectively,
+you'll utilize BERT, a powerful language representation model. Don't worry if you're
+not familiar with these technologies – the assignment is designed to introduce you
+to them step by step. By completing this task, you'll gain practical experience in
+building recommendation systems and working with advanced text encoding
+techniques.
+Please note that these assignments are designed to be approachable for students
+with varying levels of experience in artificial intelligence and programming. If you
+encounter any difficulties or have questions along the way, feel free to reach out for
+assistance. Both assignments should be completed by the upcoming Sunday, and
+you're encouraged to submit any questions or concerns you may have throughout
+the process.
